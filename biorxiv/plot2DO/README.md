@@ -1,4 +1,4 @@
-## source code without modifications
+## Source code without modifications
 
 https://github.com/rchereji/plot2DO
 
