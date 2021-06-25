@@ -1,3 +1,8 @@
+## source code withouy modifications
+
+https://github.com/rchereji/plot2DO
+
+
 ## plot2DO: Plot 2D Occupancies
 Micrococcal nuclease digestion followed by deep sequencing (MNase-seq) is the most used method to investigate nucleosome organization on a genome-wide scale. We present **plot2DO**, a flexible tool for evaluating the quality of MNase-seq and MNase-ChIP-seq data, and for visualizing the distribution of nucleosomes near the functional regions of the genome. Apart from MNase-seq data analysis, **plot2DO** was also used to investigate DNA fragments obtained in other types of experiments, such as ChIP-seq, ATAC-seq, and chemical cleavage mapping. In principle, **plot2DO** can be used to analyze the amount of DNA that is obtained from different regions of the genome, and the corresponding distribution of fragment sizes for each region, independent of the protocol that is used to generate the short DNA fragments.
 
